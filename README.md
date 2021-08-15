@@ -6,4 +6,4 @@ Complete solution
 
 C++ Full Stack Program
 
-FacePrep capsul 360
+FacePrep capsule 360
