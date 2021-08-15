@@ -1,2 +1,9 @@
-# Face-Prep-FACE-360-capsule
-Face prep FACE 360 capsule  C full stack programs (all test cases passed)
+#Face Prep (FACE 360 Capsule)
+
+Complete Placement questions
+
+Complete solution
+
+C++ Full Stack Program
+
+FacePrep capsul 360
